@@ -41,7 +41,6 @@ hitung_kpk(12, 15) # Output: 60
 Fungsi ini adalah fungsi utama yang mengatur alur program. Fungsi ini meminta pengguna untuk memilih operasi (FPB atau KPK) dan memasukkan dua bilangan bulat. Berdasarkan pilihan pengguna, fungsi ini akan memanggil `hitung_fpb` atau `hitung_kpk` dan menampilkan hasilnya.
 
 ## Cara Menggunakan
-
 1. Jalankan program.
 2. Pilih operasi yang ingin dilakukan:
    - Ketik `1` untuk menghitung FPB.
